@@ -1,5 +1,7 @@
 # Quartz
 
+[![Deploy to GitHub Pages](https://github.com/mohamedallam1991/quartz/actions/workflows/deploy.yaml/badge.svg)](https://github.com/mohamedallam1991/quartz/actions/workflows/deploy.yaml)
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
@@ -7,6 +9,7 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gard
 3. Automatically generated backlinks, link previews, and local graph
 4. Built-in CJK + Latex Support
 5. Support for both Markdown Links and Wikilinks
+6. Works easily remotely but not locally.
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
